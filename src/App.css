@@ -1,0 +1,14 @@
+.titles {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.content {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 25px;
+}
+
+.input {
+  display: flex;
+}
